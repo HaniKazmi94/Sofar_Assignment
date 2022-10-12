@@ -2,6 +2,8 @@
 
 This is the repository for SOFAR Project 12a.
 
+## PROJECT AUTHORS
+
 Project by Jacopo Favaro, Fabrizio Zavanone, Muhammad Talha Siddiqui, Muhammad Tahir, Muhammad Sayum Ahmed, Syed Hani Kazmi Hussain.
 
 
