@@ -3,7 +3,12 @@
 This is the repository for SOFAR Project 12a.
 
 ## PROJECT AUTHORS
+
+The work has been divided into two further groups
+#### Group A
 * HANI
+* Muhammad Talha Siddiqui
+#### Group B
 
 Project by Jacopo Favaro, Fabrizio Zavanone, Muhammad Talha Siddiqui, Muhammad Tahir, Muhammad Sayum Ahmed, Syed Hani Kazmi Hussain.
 
