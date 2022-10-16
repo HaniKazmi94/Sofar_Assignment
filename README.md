@@ -5,8 +5,10 @@ This is the repository for SOFAR Project 12a.
 ## PROJECT AUTHORS
 
 The work has been divided into two further groups
+
 #### Group A
-* HANI
+
+* Syed Hani Hussain Kazmi
 * Muhammad Talha Siddiqui
 #### Group B
 
