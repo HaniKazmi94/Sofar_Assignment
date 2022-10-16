@@ -10,9 +10,11 @@ The work has been divided into two further groups
 
 * Syed Hani Hussain Kazmi
 * Muhammad Talha Siddiqui
+
 #### Group B
 
-Project by Jacopo Favaro, Fabrizio Zavanone, Muhammad Talha Siddiqui, Muhammad Tahir, Muhammad Sayum Ahmed, Syed Hani Kazmi Hussain.
+* Jacopo Favaro
+* Fabrizio Zavanone
 
 
 ## Objective of the Project
@@ -50,7 +52,18 @@ $ git clone https://github.com/EmaroLab/ros_verbal_interaction_node.git
 
 ### OpenCV apps 
 
-TO BE DONE
+As Miro executes an activity, Miro represents emotional colours, which allow user to induce the feedback about the following:
+1)Miro understood the task 
+2) is performing the execution of the task given 
+3) Have accomplished the task or not. 
+After executing the given task Miro goes into the state of Natural social behavior and wait for a new command to be given.
+In this part we are interacting with MIRO through natural language to identify the objects (in our case a yellow ball) and to monitor the gestures, emotions and behavior while executing the commands given by the user.
+
+When we say "Miro" it goes in the active state and wait for a commad, a command is given to search for a "yellow ball". Miro begins to search for a yellow ball. 
+We will statisfy 2 cconditions in our task:
+1) Miro found the "Yello Ball" indicating " Happy State" with a green light.
+2) Miro failed to locate the "Yellow Ball" indicating "Sad State" with a red light.
+
 
 ## Architecture of the System
 
