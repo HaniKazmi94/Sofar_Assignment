@@ -11,10 +11,19 @@ The work has been divided into two further groups
 * Syed Hani Hussain Kazmi
 * Muhammad Talha Siddiqui
 
+Part done by Group A:
+
+* OpenCV app
+
 #### Group B
 
 * Jacopo Favaro
 * Fabrizio Zavanone
+
+Part done by Group B:
+
+* Architecture of the System
+* Description of the System’s Architecture
 
 
 ## Objective of the Project
