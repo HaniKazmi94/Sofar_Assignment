@@ -13,7 +13,7 @@ The work has been divided into two further groups
 
 Part done by Group A:
 
-* OpenCV app
+* OpenCV apps
 
 #### Group B
 
