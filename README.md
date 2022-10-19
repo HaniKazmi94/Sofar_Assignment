@@ -64,6 +64,35 @@ We will statisfy 2 cconditions in our task:
 1) Miro found the "Yello Ball" indicating " Happy State" with a green light.
 2) Miro failed to locate the "Yellow Ball" indicating "Sad State" with a red light.
 
+## Installation and prerequisites
+
+*sync the package index files from their sources via Internet
+
+sudo apt install
+
+or
+
+sudo apt-get update
+
+*Install the newest versions of all installed packages
+
+sudo apt-get upgrade
+
+or
+
+sudo apt upgrade
+
+*Intsall Python:
+
+sudo apt-get install python3
+
+*Install PIP:
+
+sudo apt-get install python3-pip
+
+*Install OpenCV library with pip:
+
+pip3 install opencv-python
 
 ## Architecture of the System
 
@@ -131,9 +160,10 @@ Here's a demo for the failure state: MiRo, after failing to understand the comma
 
 [![](https://github.com/Thsuva/MiRo-Project12a/blob/state_machine/docs/MiRo_sad.png)](https://unigeit-my.sharepoint.com/:v:/g/personal/s3947407_studenti_unige_it/ET7sVmuhv5JAlO0pEUt8FDcBmhItLRQtnhiZq7-rXuLdyA?e=jLgAcA)
 
-## Report
+## Video (Object Recognition)
 
-This is the link to the report: <[Report_MiRo-12a](https://github.com/Thsuva/MiRo-Project12a/blob/state_machine/docs/Report_MiRo-12a.docx)>
+The video link is https://user-images.githubusercontent.com/106847925/196697925-a6b74f26-b939-4465-a469-8123c642b980.mp4
+
 
 ## Acknowledgments
 
