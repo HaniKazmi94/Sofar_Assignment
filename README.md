@@ -173,4 +173,5 @@ The video link is https://user-images.githubusercontent.com/106847925/196697925-
 ## Authors
 * Jacopo Favaro: S3947407@studenti.unige.it
 * Fabrizio Zavanone: S3945845@studenti.unige.it
-* FirstName LastName: email@email.com
+* Syed Hani Hussain Kazmi: S4853356@studenti.unige.it
+* Muhammad Talha Siddiqui: S4853631@studenti.unige.it
