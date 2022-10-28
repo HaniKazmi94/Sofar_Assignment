@@ -59,7 +59,7 @@ $ git clone https://github.com/EmaroLab/ros_verbal_interaction_node.git
 
 ```
 
-### OpenCV apps 
+### Object Recognition  
 
 As Miro executes an activity, Miro represents emotional colours, which allow user to induce the feedback about the following:
 1)Miro understood the task 
