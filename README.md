@@ -77,31 +77,32 @@ We will statisfy 2 cconditions in our task:
 
 * sync the package index files from their sources via Internet
 
-sudo apt install
+$ sudo apt install
 
 or
 
-sudo apt-get update
+$ sudo apt-get update
 
 * Install the newest versions of all installed packages
 
-sudo apt-get upgrade
+$ sudo apt-get upgrade
 
 or
 
-sudo apt upgrade
+$ sudo apt upgrade
 
 * Intsall Python:
 
-sudo apt-get install python3
+$ sudo apt-get install python3
 
 * Install PIP:
 
-sudo apt-get install python3-pip
+$ sudo apt-get install python3-pip
 
 * Install OpenCV library with pip:
 
-pip3 install opencv-python
+$ pip3 install opencv-python
+
 
 ## Architecture of the System
 
