@@ -75,6 +75,7 @@ We will statisfy 2 cconditions in our task:
 
 ## Installation and prerequisites
 
+```
 * sync the package index files from their sources via Internet
 
 $ sudo apt install
@@ -102,6 +103,7 @@ $ sudo apt-get install python3-pip
 * Install OpenCV library with pip:
 
 $ pip3 install opencv-python
+```
 
 
 ## Architecture of the System
