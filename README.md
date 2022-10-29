@@ -162,10 +162,9 @@ Here's a demo for the failure state: MiRo, after failing to understand the comma
 
 [![](https://github.com/Thsuva/MiRo-Project12a/blob/state_machine/docs/MiRo_sad.png)](https://unigeit-my.sharepoint.com/:v:/g/personal/s3947407_studenti_unige_it/ET7sVmuhv5JAlO0pEUt8FDcBmhItLRQtnhiZq7-rXuLdyA?e=jLgAcA)
 
-## Video (OpenCV apps Object Recognition)
+## Video (Object Recognition)
 
-The video link is https://user-images.githubusercontent.com/106847925/196697925-a6b74f26-b939-4465-a469-8123c642b980.mp4
-
+[Video](https://user-images.githubusercontent.com/106847925/196697925-a6b74f26-b939-4465-a469-8123c642b980.mp4)
 
 ## Acknowledgments
 
